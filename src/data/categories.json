@@ -1,0 +1,19 @@
+[
+  { "id": "foundations", "name": "Core Architecture & Language Models", "color": "#6366f1", "description": "The official RWKV-4/5/6/7 papers, architectural variants, hybrids with attention, distillation into RWKV, and large-scale language model training." },
+  { "id": "surveys", "name": "Surveys & Analysis", "color": "#64748b", "description": "Surveys of the RWKV ecosystem and empirical analyses of what RWKV models learn." },
+  { "id": "long-context", "name": "State, Memory & Long Context", "color": "#0ea5e9", "description": "Exploiting the recurrent WKV state: state tuning, reusable states for retrieval, state stability over extreme context, and long-sequence generation." },
+  { "id": "efficiency", "name": "Hardware & Efficiency", "color": "#f59e0b", "description": "Quantization, compression and dedicated hardware accelerators (FPGA, on-chip, neuromorphic) for RWKV inference." },
+  { "id": "nlp", "name": "NLP & Language Applications", "color": "#8b5cf6", "description": "RWKV language models applied to translation, code, moderation, compression, domain LLMs, knowledge graphs and decoding." },
+  { "id": "multimodal", "name": "Multimodal & Vision-Language", "color": "#ec4899", "description": "Vision-language models, CLIP-style representation learning, visual grounding, tracking and other cross-modal RWKV systems." },
+  { "id": "vision", "name": "Computer Vision", "color": "#10b981", "description": "Vision-RWKV backbones, segmentation, detection, image generation/diffusion, style transfer and pose estimation." },
+  { "id": "restoration", "name": "Image Restoration, Enhancement & Fusion", "color": "#14b8a6", "description": "Low-level vision with RWKV: denoising, deraining, dehazing, low-light enhancement, super-resolution, image compression and image fusion." },
+  { "id": "medical", "name": "Medical & Biomedical", "color": "#ef4444", "description": "Medical image segmentation, restoration, translation and registration, plus biomedical signal analysis (EEG, fMRI, sleep staging)." },
+  { "id": "remote-sensing", "name": "Remote Sensing & Earth Observation", "color": "#84cc16", "description": "Pan-sharpening, hyperspectral imaging, change detection, semantic segmentation, sonar and weather radar with RWKV." },
+  { "id": "3d", "name": "3D & Point Clouds", "color": "#a855f7", "description": "RWKV for point cloud learning, completion, semantic occupancy prediction and LiDAR place recognition." },
+  { "id": "video", "name": "Video & Action", "color": "#f97316", "description": "Action recognition and detection, video editing, forgery localization and video captioning." },
+  { "id": "audio", "name": "Speech, Audio & Music", "color": "#d946ef", "description": "Speech recognition, enhancement, TTS, voice activity detection, audio tagging, speech compression and symbolic music." },
+  { "id": "time-series", "name": "Time Series & Forecasting", "color": "#06b6d4", "description": "RWKV for forecasting (energy, weather, traffic), anomaly detection and time-series foundation models." },
+  { "id": "rl-robotics", "name": "Reinforcement Learning & Robotics", "color": "#eab308", "description": "Decision-making, manipulation, odometry, robot control and autonomous-driving planning built on RWKV." },
+  { "id": "science", "name": "Science, Engineering & Other Domains", "color": "#78716c", "description": "Molecules and RNA, physics surrogates, wireless communication, network security, recommendation and industrial monitoring." },
+  { "id": "spiking-quantum", "name": "Spiking & Quantum RWKV", "color": "#22c55e", "description": "Neuromorphic spiking RWKV language models and quantum-enhanced RWKV variants." }
+]
