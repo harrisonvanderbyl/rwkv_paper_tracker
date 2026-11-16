@@ -5,10 +5,15 @@ import Timeline from './components/Timeline'
 import CategoryGrid from './components/CategoryGrid'
 import PaperList from './components/PaperList'
 import PaperDetail from './components/PaperDetail'
+import OrgRanking from './components/OrgRanking'
+import CitingPapers from './components/CitingPapers'
+import { useCitations } from './citations'
 
 function matchesQuery(p: Paper, q: string) {
   if (!q) return true
-  const hay = `${p.title} ${p.authors.join(' ')} ${p.venue} ${p.abstract} ${p.arxiv ?? ''}`.toLowerCase()
+  const hay = `${p.title} ${p.authors.join(' ')} ${p.venue} ${p.abstract} ${p.arxiv ?? ''} ${p.organizations
+    .map((o) => o.name)
+    .join(' ')}`.toLowerCase()
   return q
     .toLowerCase()
     .split(/\s+/)
@@ -21,8 +26,16 @@ export default function App() {
   const [granularity, setGranularity] = useState<Granularity>('quarter')
   const [period, setPeriod] = useState<string | null>(null)
   const [selected, setSelected] = useState<Paper | null>(null)
+  const [org, setOrg] = useState<string | null>(null)
+  const citations = useCitations()
 
-  const searched = useMemo(() => papers.filter((p) => matchesQuery(p, query.trim())), [query])
+  const searched = useMemo(
+    () =>
+      papers.filter(
+        (p) => matchesQuery(p, query.trim()) && (!org || p.organizations.some((o) => o.name === org)),
+      ),
+    [query, org],
+  )
   const inCategory = useMemo(
     () => (category ? searched.filter((p) => p.category === category) : searched),
     [searched, category],
@@ -58,6 +71,10 @@ export default function App() {
           <div className="stat">
             <span className="stat-value">{categories.length}</span>
             <span className="stat-label">categories</span>
+          </div>
+          <div className="stat">
+            <span className="stat-value">{citations ? citations.length : '…'}</span>
+            <span className="stat-label">citing papers</span>
           </div>
           <div className="stat">
             <span className="stat-value">
@@ -124,6 +141,11 @@ export default function App() {
                 {activeCategory.name} ✕
               </button>
             )}
+            {org && (
+              <button className="chip" onClick={() => setOrg(null)}>
+                {org} ✕
+              </button>
+            )}
             {period && (
               <button className="chip" onClick={() => setPeriod(null)}>
                 {period} ✕
@@ -136,11 +158,44 @@ export default function App() {
             )}
           </div>
         </div>
-        <PaperList key={`${category}|${period}|${query}`} papers={listed} onSelect={setSelected} />
+        <PaperList key={`${category}|${period}|${query}|${org}`} papers={listed} onSelect={setSelected} />
+      </section>
+
+      <section className="panel">
+        <div className="panel-header">
+          <h2>Organizations</h2>
+          {org && (
+            <button className="link-button" onClick={() => setOrg(null)}>
+              Clear organization filter
+            </button>
+          )}
+        </div>
+        <div className="org-grid">
+          <OrgRanking
+            title="Authoring tracked papers"
+            items={inCategory}
+            selected={org}
+            onSelect={(name) => setOrg(name === org ? null : name)}
+            unit="tracked papers"
+          />
+          <OrgRanking title="Citing RWKV papers" items={citations} selected={org} unit="citing papers" />
+        </div>
+        <p className="hint">
+          Click an authoring organization to filter the timeline, categories and paper lists. Affiliations come from
+          OpenAlex (ROR-normalized) plus hand-checked author blocks for the core RWKV papers.
+        </p>
+      </section>
+
+      <section className="panel">
+        <div className="panel-header">
+          <h2>Papers citing RWKV research</h2>
+          {org && <span className="muted small">filtered to {org}</span>}
+        </div>
+        <CitingPapers citations={citations} org={org} />
       </section>
 
       <footer className="footer">
-        Collected from arXiv and Semantic Scholar. Papers are included when RWKV is the central architecture, not
+        Collected from arXiv, Semantic Scholar and OpenAlex. Papers are included when RWKV is the central architecture, not
         merely a baseline. Missing a paper? Add it to <code>src/data/papers.json</code>.
       </footer>
 

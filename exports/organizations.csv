@@ -1,0 +1,1342 @@
+organization,tracked_papers,citing_papers
+University of Science and Technology of China,13,31
+Chinese Academy of Sciences,12,77
+Tsinghua University,11,80
+Shanghai Jiao Tong University,11,55
+Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen),10,12
+Harbin Institute of Technology,8,37
+Zhejiang University,7,51
+Sun Yat-sen University,6,21
+Hong Kong University of Science and Technology,6,20
+Hefei Institutes of Physical Science,6,8
+University of Chinese Academy of Sciences,5,41
+Beihang University,5,26
+Shenzhen University,5,16
+Qinghai University,5,7
+Institute of Intelligent Machines,5,6
+EleutherAI,5,2
+Anhui University,4,17
+Jilin University,4,15
+New York University,4,15
+Nanjing University,4,14
+Guangzhou University,4,10
+Northeastern University,4,10
+Tianjin University of Technology,4,7
+University of Macau,4,7
+Hangzhou Dianzi University,4,6
+Dalle Molle Institute for Artificial Intelligence Research,4,4
+Recursal AI,4,2
+University of Electronic Science and Technology of China,3,31
+"University of California, Santa Cruz",3,29
+Fudan University,3,28
+National University of Singapore,3,27
+Wuhan University,3,19
+Tencent (China),3,17
+Nanjing University of Science and Technology,3,16
+Xinjiang University,3,13
+Beijing Institute of Technology,3,12
+Nanyang Technological University,3,12
+Beijing Jiaotong University,3,11
+Southeast University,3,11
+University of Oxford,3,11
+Pennsylvania State University,3,10
+Guangdong University of Technology,3,9
+Ningbo University,3,8
+Soochow University,3,8
+Alibaba Group (China),3,6
+Jiaxing University,3,3
+Peking University,2,53
+Institute of Automation,2,34
+Chinese University of Hong Kong,2,21
+The Hong Kong University of Science and Technology (Guangzhou),2,21
+Cornell University,2,15
+University of Hong Kong,2,15
+The University of Sydney,2,14
+Southern University of Science and Technology,2,13
+Tongji University,2,13
+Dalian University of Technology,2,12
+Beijing University of Posts and Telecommunications,2,10
+Kunming University of Science and Technology,2,10
+Nankai University,2,10
+University of Science and Technology Beijing,2,10
+Xidian University,2,10
+Central South University,2,9
+The University of Tokyo,2,7
+National Yang Ming Chiao Tung University,2,6
+Southwest Jiaotong University,2,6
+Southwest University,2,6
+The Ohio State University,2,6
+UNSW Sydney,2,6
+University of Manchester,2,6
+George Mason University,2,5
+Nanjing University of Aeronautics and Astronautics,2,5
+University of Rochester,2,5
+Wrocław University of Science and Technology,2,5
+Xiamen University,2,5
+Aerospace Information Research Institute,2,4
+Changchun University,2,4
+Chongqing University of Technology,2,4
+Hainan University,2,4
+Hohai University,2,4
+The University of Western Australia,2,4
+Tiangong University,2,4
+"University of California, Santa Barbara",2,4
+Ministry of Education of the People's Republic of China,2,3
+Shandong Jiaotong University,2,3
+Shandong Normal University,2,3
+Shantou University,2,3
+Shenzhen Institutes of Advanced Technology,2,3
+University of British Columbia,2,3
+China Academy of Chinese Medical Sciences,2,2
+China Electronics Technology Group Corporation,2,2
+Macquarie University,2,2
+National Police University for Criminal Justice,2,2
+Charm Therapeutics,2,1
+Jiangnan University,2,1
+RWKV Project (Linux Foundation AI & Data),2,1
+Shenzhen College of International Education,2,1
+Tano Labs,2,1
+Carnegie Mellon University,1,28
+Shanghai Artificial Intelligence Laboratory,1,23
+Huawei Technologies (China),1,22
+Peng Cheng Laboratory,1,22
+University of California San Diego,1,21
+Hong Kong Polytechnic University,1,19
+City University of Hong Kong,1,18
+Huazhong University of Science and Technology,1,18
+ByteDance (China),1,15
+South China University of Technology,1,14
+Harvard University,1,13
+Northwestern Polytechnical University,1,13
+Purdue University West Lafayette,1,11
+Centre National de la Recherche Scientifique,1,10
+IBM (United States),1,10
+Université de Montréal,1,10
+Sungkyunkwan University,1,9
+Hunan University,1,8
+Institute of Computing Technology,1,8
+National University of Defense Technology,1,8
+"University of California, Los Angeles",1,8
+Ant Group (China),1,7
+Imperial College London,1,7
+Mila - Quebec Artificial Intelligence Institute,1,7
+"University of California, Merced",1,7
+Donghua University,1,6
+Meta (United States),1,6
+Shanghai University,1,6
+Australian National University,1,5
+Chinese Academy of Medical Sciences & Peking Union Medical College,1,5
+East China University of Science and Technology,1,5
+Harbin Engineering University,1,5
+Horizon Robotics (China),1,5
+Sorbonne Université,1,5
+University of Edinburgh,1,5
+University of Nottingham Ningbo China,1,5
+Yale University,1,5
+Anhui University of Science and Technology,1,4
+Changsha University of Science and Technology,1,4
+Chengdu University of Technology,1,4
+China University of Mining and Technology - Beijing,1,4
+Chongqing University of Posts and Telecommunications,1,4
+Fuzhou University,1,4
+Guilin University of Electronic Technology,1,4
+Huaqiao University,1,4
+Institute of Software,1,4
+KTH Royal Institute of Technology,1,4
+Liaoning Technical University,1,4
+Shenzhen Polytechnic University,1,4
+State Grid Corporation of China (China),1,4
+State Key Laboratory of Software Development Environment,1,4
+University of South China,1,4
+Beijing Normal University,1,3
+Beijing Tsinghua Chang Gung Hospital,1,3
+CNR-IMIOT – Consiglio Nazionale delle Ricerche - Istituto di Metodologie Integrate per l’Osservazione della Terra,1,3
+Cancer Hospital of Chinese Academy of Medical Sciences,1,3
+"China University of Petroleum, East China",1,3
+Communication University of China,1,3
+Deakin University,1,3
+Delft University of Technology,1,3
+Guangdong Power Grid Company (China),1,3
+Keio University,1,3
+LIP6,1,3
+Nanjing Normal University,1,3
+Nanjing University of Posts and Telecommunications,1,3
+National Taiwan University,1,3
+Qilu University of Technology,1,3
+Qingdao University of Science and Technology,1,3
+Shandong Jianzhu University,1,3
+Shanghai Maritime University,1,3
+Simon Fraser University,1,3
+University of Sussex,1,3
+Wuhan University of Technology,1,3
+Xi'an University of Architecture and Technology,1,3
+Xi'an University of Technology,1,3
+Yunnan Normal University,1,3
+Canadian Institute for Advanced Research,1,2
+Communication University of Zhejiang,1,2
+Guilin University of Technology,1,2
+Hefei Institute of Technology Innovation,1,2
+Hokkaido University,1,2
+Hunan Normal University,1,2
+Ibaraki University,1,2
+Inner Mongolia University of Technology,1,2
+Jiangxi University of Finance and Economics,1,2
+Jinhua University of Vocational Technology,1,2
+Nagoya University,1,2
+Nanjing Medical University,1,2
+Shandong Management University,1,2
+Shanghai University of Engineering Science,1,2
+State Key Laboratory of Media Convergence and Communication,1,2
+State Key Laboratory of Ocean Engineering,1,2
+Taizhou University,1,2
+Te Pūkenga,1,2
+The University of Osaka,1,2
+Tsinghua Shenzhen International Graduate School,1,2
+University of International Business and Economics,1,2
+Wuhan University of Science and Technology,1,2
+Yangzhou University,1,2
+Zyphra (United States),1,2
+Alibaba DAMO Academy (China),1,1
+Anqing Normal University,1,1
+Carleton University,1,1
+Changzhou No.2 People's Hospital,1,1
+China Geological Survey,1,1
+China Jiliang University,1,1
+China Meteorological Administration,1,1
+China University of Geosciences (Beijing),1,1
+Chinese Academy of Social Sciences,1,1
+Chinese Academy of Surveying and Mapping,1,1
+Chongqing Medical University,1,1
+Chulalongkorn University,1,1
+Contextual AI,1,1
+Dayananda Sagar University,1,1
+Duke Kunshan University,1,1
+Egyptian Russian University,1,1
+Guangdong Academy of Medical Sciences,1,1
+Guangdong Academy of Sciences,1,1
+Guangdong Provincial People's Hospital,1,1
+Guangxi Normal University,1,1
+Guangzhou Institute of Geochemistry,1,1
+Guangzhou Institute of Geography,1,1
+Hebei Agricultural University,1,1
+Hefei University,1,1
+Huazhong Agricultural University,1,1
+Hubei University Of Economics,1,1
+Inspur (China),1,1
+Institute of Archaeology,1,1
+Institute of Science Tokyo,1,1
+Institute of Semiconductors,1,1
+Intel (India),1,1
+Kuaishou (China),1,1
+Kunlun Inc.,1,1
+Laboratoire Informatique Paris Descartes,1,1
+Lenovo (China),1,1
+"Neuro Industry, Inc.",1,1
+Nextremer,1,1
+NingboTech University,1,1
+Oregon State University,1,1
+PES University,1,1
+Qilu Institute of Technology,1,1
+Qinghai Institute of Technology,1,1
+Ronsor Labs,1,1
+Saarland University,1,1
+Sensetime (China),1,1
+Shanghai Ninth People's Hospital,1,1
+Shenyang Ligong University,1,1
+Shenzhen Children's Hospital,1,1
+Southern Medical University,1,1
+Southwest University of Science and Technology,1,1
+Sri Sairam Engineering College,1,1
+"State Grid Hubei Electric Power Co., Ltd. (China)",1,1
+State Grid Hubei Electric Power Company Electric Power Research Institute,1,1
+State Grid Hunan Electric Power Company Limited,1,1
+State Key Laboratory of Automotive Simulation and Control,1,1
+Suzhou Polytechnic University,1,1
+Suzhou University of Science and Technology,1,1
+SynthLabs,1,1
+Taizhou First People's Hospital,1,1
+Universitas Sains Al-Qur'an,1,1
+University of Arizona,1,1
+University of Newcastle Australia,1,1
+University of North Carolina at Charlotte,1,1
+University of Oslo,1,1
+University of Pavia,1,1
+University of Virginia,1,1
+Université Hassan 1er,1,1
+Université Mohammed VI Polytechnique,1,1
+Université Paris Cité,1,1
+Yibin University,1,1
+Anhui Xinhua University,1,0
+Criteo (France),1,0
+DeepGlint,1,0
+Denigma,1,0
+Gebze Technical University,1,0
+Generative AI Commons,1,0
+Leiden University,1,0
+Lingnan Normal University,1,0
+Palo Alto Networks (United States),1,0
+Qingdao University,1,0
+QuTech,1,0
+Qufu Normal University,1,0
+RWKVOS,1,0
+Shandong First Medical University,1,0
+Shandong Tumor Hospital,1,0
+Shandong University of Traditional Chinese Medicine,1,0
+Shenzhen Bay Laboratory,1,0
+State Key Laboratory of Advanced Technology For Materials Synthesis and Processing,1,0
+The University of Hong Kong,1,0
+Universitat de Barcelona,1,0
+William & Mary,1,0
+Zayed University,1,0
+Massachusetts Institute of Technology,0,22
+Stanford University,0,21
+The University of Texas at Austin,0,21
+Microsoft (United States),0,19
+Princeton University,0,18
+Renmin University of China,0,16
+University of Illinois Urbana-Champaign,0,15
+Xi'an Jiaotong University,0,15
+Johns Hopkins University,0,14
+Georgia Institute of Technology,0,13
+"University of California, Berkeley",0,12
+University of Southern California,0,12
+University of Washington,0,12
+Google (United States),0,11
+ETH Zurich,0,10
+Politecnico di Torino,0,10
+Korea Advanced Institute of Science and Technology,0,9
+Technical University of Munich,0,9
+Westlake University,0,9
+École Polytechnique Fédérale de Lausanne,0,9
+"Chinese University of Hong Kong, Shenzhen",0,8
+Hefei University of Technology,0,8
+Intel (United States),0,8
+University College London,0,8
+University of Michigan,0,8
+East China Normal University,0,7
+MIT Computer Science and Artificial Intelligence Laboratory,0,7
+Mohamed bin Zayed University of Artificial Intelligence,0,7
+Tel Aviv University,0,7
+"University of California, Irvine",0,7
+University of Toronto,0,7
+University of Wisconsin–Madison,0,7
+Amazon (United States),0,6
+Chongqing University,0,6
+City University of Macau,0,6
+ELLIS Institute Tübingen,0,6
+Google DeepMind (United Kingdom),0,6
+King Abdullah University of Science and Technology,0,6
+Nvidia (United States),0,6
+Shandong University,0,6
+Stony Brook University,0,6
+Tianjin University,0,6
+University of Groningen,0,6
+University of Zurich,0,6
+Adobe Systems (United States),0,5
+Hubei University of Technology,0,5
+Johannes Kepler University of Linz,0,5
+KU Leuven,0,5
+Nantong University,0,5
+RWTH Aachen University,0,5
+Sichuan University,0,5
+Technische Universität Dresden,0,5
+The University of Melbourne,0,5
+University of Bristol,0,5
+University of Cambridge,0,5
+University of Chicago,0,5
+University of Waterloo,0,5
+Vanderbilt University,0,5
+Vector Institute,0,5
+AIRI - Artificial Intelligence Research Institute,0,4
+"Agency for Science, Technology and Research",0,4
+Beijing Academy of Artificial Intelligence,0,4
+China Southern Power Grid (China),0,4
+Dalian Maritime University,0,4
+Eindhoven University of Technology,0,4
+Italian Institute of Technology,0,4
+Lanzhou University,0,4
+McGill University,0,4
+Moscow Institute of Physics and Technology,0,4
+Nvidia (United Kingdom),0,4
+Rice University,0,4
+Ruhr University Bochum,0,4
+"Rutgers, The State University of New Jersey",0,4
+Sandia National Laboratories,0,4
+Seoul National University,0,4
+Shanghai Innovation Institute,0,4
+ShanghaiTech University,0,4
+Shenzhen Technology University,0,4
+University of Florida,0,4
+University of Geneva,0,4
+University of Pennsylvania,0,4
+Waseda University,0,4
+Xiaomi (China),0,4
+Yonsei University,0,4
+AGH University of Krakow,0,3
+Argonne National Laboratory,0,3
+Beijing University of Technology,0,3
+Boston University,0,3
+Brown University,0,3
+Brunel University of London,0,3
+California Institute of Technology,0,3
+Centre de recherche cerveau et cognition,0,3
+China Agricultural University,0,3
+China Mobile (China),0,3
+Chongqing Normal University,0,3
+Commonwealth Scientific and Industrial Research Organisation,0,3
+Consejo Superior de Investigaciones Científicas,0,3
+Duke University,0,3
+Forschungszentrum Jülich,0,3
+Guizhou University,0,3
+Henan University of Science and Technology,0,3
+Inserm,0,3
+Institut Polytechnique de Paris,0,3
+Jinan University,0,3
+Karlsruhe Institute of Technology,0,3
+King's College London,0,3
+Lanzhou Jiaotong University,0,3
+Ludwig-Maximilians-Universität München,0,3
+MNEMOSYNE: Mnemonic Synergy,0,3
+Manchester Metropolitan University,0,3
+Massey University,0,3
+Microsoft Research Asia (China),0,3
+Mohammed V University,0,3
+Nanjing University of Information Science and Technology,0,3
+New York University Abu Dhabi,0,3
+Northwestern University,0,3
+Polish Academy of Sciences,0,3
+Posts and Telecommunications Institute of Technology,0,3
+Queensland University of Technology,0,3
+RIKEN,0,3
+Rensselaer Polytechnic Institute,0,3
+Royal Holloway University of London,0,3
+Samsung (South Korea),0,3
+Shandong University of Science and Technology,0,3
+Shanghai Ocean University,0,3
+Shenyang University of Chemical Technology,0,3
+Southwestern University of Finance and Economics,0,3
+Tamkang University,0,3
+Texas A&M University,0,3
+The University of Texas at San Antonio,0,3
+Tianjin University of Science and Technology,0,3
+Tübingen AI Center,0,3
+University of Alberta,0,3
+University of Bologna,0,3
+University of Central Florida,0,3
+University of Copenhagen,0,3
+University of Illinois Chicago,0,3
+University of Lisbon,0,3
+"University of Maryland, College Park",0,3
+University of Minnesota,0,3
+University of Nis,0,3
+University of Notre Dame,0,3
+University of Padua,0,3
+University of Shanghai for Science and Technology,0,3
+University of South Carolina,0,3
+University of Surrey,0,3
+University of Zagreb,0,3
+Université Marie et Louis Pasteur,0,3
+Université Paris Sciences et Lettres,0,3
+Université de Toulouse,0,3
+Vellore Institute of Technology University,0,3
+Warsaw University of Technology,0,3
+Xihua University,0,3
+Xi’an Jiaotong-Liverpool University,0,3
+ZHAW Zurich University of Applied Sciences,0,3
+Zhengzhou University,0,3
+École Normale Supérieure - PSL,0,3
+Aberystwyth University,0,2
+Air Force Engineering University,0,2
+Allen Institute for Artificial Intelligence,0,2
+American International University-Bangladesh,0,2
+American University,0,2
+American University of Beirut,0,2
+Amrita Vishwa Vidyapeetham,0,2
+Athena Research and Innovation Center In Information Communication & Knowledge Technologies,0,2
+BRAC University,0,2
+Baichuan (China),0,2
+Baidu (China),0,2
+Baylor University,0,2
+Beijing Normal-Hong Kong Baptist University,0,2
+"Birla Institute of Technology and Science, Pilani - Goa Campus",0,2
+Bocconi University,0,2
+California Polytechnic State University,0,2
+Center for Excellence in Brain Science and Intelligence Technology,0,2
+Center for Scalable Data Analytics and Artificial Intelligence,0,2
+CentraleSupélec,0,2
+Centre of Advanced Studies,0,2
+Centro de Astropartículas y Física de Altas Energías,0,2
+Chalmers University of Technology,0,2
+Changchun University of Science and Technology,0,2
+Changzhou University,0,2
+Charles Sturt University,0,2
+China Electric Power Research Institute,0,2
+China Telecom (China),0,2
+China Three Gorges University,0,2
+China University of Geosciences,0,2
+China University of Mining and Technology,0,2
+"China University of Petroleum, Beijing",0,2
+Cisco Systems (United States),0,2
+Columbia University,0,2
+Dalian Minzu University,0,2
+"Donders Institute for Brain, Cognition and Behaviour",0,2
+Dongbei University of Finance and Economics,0,2
+Emory University,0,2
+Erciyes University,0,2
+European Organization for Nuclear Research,0,2
+FPT University,0,2
+Fermi National Accelerator Laboratory,0,2
+Flatiron Institute,0,2
+Foshan University,0,2
+Fujitsu (Japan),0,2
+GSI Helmholtz Centre for Heavy Ion Research,0,2
+Gachon University,0,2
+Griffith University,0,2
+Guangxi University,0,2
+Hanoi University of Science and Technology,0,2
+Heidelberg University,0,2
+Henan University,0,2
+Henan University of Engineering,0,2
+Henan University of Technology,0,2
+Hessian Center for Artificial Intelligence,0,2
+Hong Kong Baptist University,0,2
+Huizhou University,0,2
+Hunan University of Science and Technology,0,2
+IMEC,0,2
+IMT School for Advanced Studies Lucca,0,2
+Imec the Netherlands,0,2
+Institut national de recherche en sciences et technologies du numérique,0,2
+Institute of Basic Medical Sciences of the Chinese Academy of Medical Sciences,0,2
+Institute of Information Engineering,0,2
+Instituto Superior Técnico,0,2
+Instituto de Física de Cantabria,0,2
+Intel (Germany),0,2
+Iowa State University,0,2
+Istituto Nazionale di Fisica Nucleare,0,2
+"Istituto Nazionale di Fisica Nucleare, Sezione di Padova",0,2
+"Istituto Nazionale di Fisica Nucleare, Sezione di Roma I",0,2
+KIIT University,0,2
+King Fahd University of Petroleum and Minerals,0,2
+LIP - Laboratory of Instrumentation and Experimental Particle Physics,0,2
+La Trobe University,0,2
+Laboratoire de Neurosciences Cognitives et Computationnelles,0,2
+Lancaster University,0,2
+Lanzhou University of Technology,0,2
+London Institute for Mathematical Sciences,0,2
+Luleå University of Technology,0,2
+MIT-IBM Computing Research Lab,0,2
+Massachusetts General Hospital,0,2
+Max Planck Institute for Biological Cybernetics,0,2
+Max Planck Institute for Intelligent Systems,0,2
+Megvii (China),0,2
+Meituan (China),0,2
+Minnan Normal University,0,2
+Monash University,0,2
+NXAI GmbH (Austria),0,2
+National Research Council Canada,0,2
+National Research Nuclear University MEPhI,0,2
+National Research University Higher School of Economics,0,2
+National Taiwan Normal University,0,2
+Newcastle University,0,2
+Ningbo University of Finance & Economics,0,2
+North China Electric Power University,0,2
+North China Institute of Aerospace Engineering,0,2
+Northeastern University London,0,2
+Northumbria University,0,2
+Norwegian University of Science and Technology,0,2
+Oak Ridge National Laboratory,0,2
+Obuda University,0,2
+Okinawa Institute of Science and Technology Graduate University,0,2
+Panzhihua University,0,2
+Politecnico di Milano,0,2
+Queen's University Belfast,0,2
+Radboud University Nijmegen,0,2
+Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,0,2
+SLAC National Accelerator Laboratory,0,2
+Sapienza University of Rome,0,2
+Shandong Academy of Sciences,0,2
+Shenyang Aerospace University,0,2
+Shenzhen University of Advanced Technology,0,2
+Shimonoseki City University,0,2
+Sichuan University of Science and Engineering,0,2
+South China Normal University,0,2
+State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing,0,2
+Stevens Institute of Technology,0,2
+Suzhou City University,0,2
+Systems Research Institute,0,2
+Taiyuan University of Science and Technology,0,2
+Taiyuan University of Technology,0,2
+Tampere University,0,2
+Technical University of Cluj-Napoca,0,2
+The University of Queensland,0,2
+The University of Texas at Dallas,0,2
+Tianjin Medical University,0,2
+Tianjin Medical University Cancer Institute and Hospital,0,2
+Tianjin University of Technology and Education,0,2
+Together,0,2
+Toyota Technological Institute at Chicago,0,2
+Trường Đại học Khoa học và Công nghệ Hà Nội,0,2
+Télécom Paris,0,2
+UCLouvain,0,2
+Universidad de Zaragoza,0,2
+Universidade Estadual de Campinas (UNICAMP),0,2
+Universidade Federal de Minas Gerais,0,2
+Universitat Politècnica de Catalunya,0,2
+Universiti Sains Malaysia,0,2
+University of Amsterdam,0,2
+University of Antwerp,0,2
+University of Bern,0,2
+University of Bonn,0,2
+"University of California, Davis",0,2
+"University of California, Riverside",0,2
+University of Georgia,0,2
+University of Lincoln,0,2
+University of Liverpool,0,2
+University of Liège,0,2
+University of Ljubljana,0,2
+University of London,0,2
+University of Malaya,0,2
+"University of Maryland, Baltimore County",0,2
+University of Massachusetts Amherst,0,2
+University of Milan,0,2
+University of Moratuwa,0,2
+University of Oregon,0,2
+University of Ottawa,0,2
+University of Pittsburgh,0,2
+University of Regensburg,0,2
+University of Siena,0,2
+University of Tampere,0,2
+University of Technology Sydney,0,2
+University of Tennessee at Knoxville,0,2
+University of Twente,0,2
+University of Ulster,0,2
+University of Utah,0,2
+University of Würzburg,0,2
+Università della Svizzera italiana,0,2
+Université Paris-Saclay,0,2
+Université de Bourgogne,0,2
+Virginia Tech,0,2
+Wells Fargo (United States),0,2
+Western Sydney University,0,2
+Xinyang Normal University,0,2
+Xi’an University of Posts and Telecommunications,0,2
+Zhejiang Gongshang University,0,2
+Zhejiang Lab,0,2
+Zhejiang Normal University,0,2
+Zhejiang University of Technology,0,2
+Zhongyuan University of Technology,0,2
+École Polytechnique,0,2
+AI Sweden,0,1
+ALMANACH: Modélisation et analyse linguistique automatique et humanités computationnelles,0,1
+Aalborg University,0,1
+Academia Sinica,0,1
+Academy of Cryptography Techniques,0,1
+Academy of Military Medical Sciences,0,1
+Accenture (United States),0,1
+Advanced Micro Devices (United States),0,1
+Aerospace Center Hospital,0,1
+Affiliated Zhongshan Hospital of Dalian University,0,1
+African Population and Health Research Center,0,1
+Aichi Prefectural University,0,1
+Akademia Śląska,0,1
+Aker BP (Norway),0,1
+Al-Balqa Applied University,0,1
+Alberta Machine Intelligence Institute,0,1
+Alibaba Group (United States),0,1
+Allen Institute,0,1
+American University of the Middle East,0,1
+Amirkabir University of Technology,0,1
+Anhui Jianzhu University,0,1
+Anhui University of Traditional Chinese Medicine,0,1
+Apple (United States),0,1
+Applied Science Private University,0,1
+Aristotle University of Thessaloniki,0,1
+Arizona State University,0,1
+Astera Institute,0,1
+Babeș-Bolyai University,0,1
+Bahçeşehir University,0,1
+Banaras Hindu University,0,1
+Bank of China,0,1
+Bar-Ilan University,0,1
+"Basque Center on Cognition, Brain and Language",0,1
+Beijing Electronic Science and Technology Institute,0,1
+Beijing Forestry University,0,1
+Beijing Information Science & Technology University,0,1
+Beijing Institute for General Artificial Intelligence,0,1
+Beijing Institute of Petrochemical Technology,0,1
+Beijing Technology and Business University,0,1
+Beijing Union University,0,1
+Ben-Gurion University of the Negev,0,1
+Bielefeld University,0,1
+"Birkbeck, University of London",0,1
+"Birla Institute of Technology and Science, Pilani",0,1
+Bohai University,0,1
+Booz Allen Hamilton (United States),0,1
+Brookhaven National Laboratory,0,1
+Burapha University,0,1
+CCFEB Industrial Equipment Installation (China),0,1
+CCTEG Shenyang Research Institute,0,1
+CRRC (China),0,1
+Cadi Ayyad University,0,1
+Caisse des Dépôts et Consignations,0,1
+"California State University, San Bernardino",0,1
+Cappadocia University,0,1
+Cardiff University,0,1
+Case Western Reserve University,0,1
+Catholic University of Croatia,0,1
+Center for Excellence in Molecular Cell Science,0,1
+Central China Normal University,0,1
+Central Conservatory of Music,0,1
+Central Institute of Mental Health,0,1
+Central Queensland University,0,1
+Central South University of Forestry and Technology,0,1
+Centre de Recherche en Informatique,0,1
+Centre for Tactile Internet with Human-in-the-Loop,0,1
+Centrum Wiskunde & Informatica,0,1
+Champalimaud Foundation,0,1
+Chang'an University,0,1
+"Changchun Institute of Optics, Fine Mechanics and Physics",0,1
+Changping Laboratory,0,1
+Changzhou Institute of Technology,0,1
+Chengdu Institute of Biology,0,1
+Chengdu Technological University,0,1
+Chengdu University,0,1
+Chengdu University of Information Technology,0,1
+Children's Hospital of Chongqing Medical University,0,1
+China Academy of Electronics and Information Technology,0,1
+China Coal Research Institute (China),0,1
+China Construction Bank,0,1
+China Information Technology Security Evaluation Center,0,1
+"China Mobile Group Design Institute Co., Ltd. (China)",0,1
+China National Offshore Oil Corporation (China),0,1
+China People's Public Security University,0,1
+China Pharmaceutical University,0,1
+China Railway Signal & Communication (China),0,1
+China Telecom,0,1
+China West Normal University,0,1
+Chinese PLA General Hospital,0,1
+Chitkara University,0,1
+Chongqing Jiaotong University,0,1
+Chongqing Municipal Health Commission,0,1
+Chongqing Technology and Business University,0,1
+Christian-Albrechts-Universität zu Kiel,0,1
+Chungnam National University,0,1
+City University of New York,0,1
+Civil Aviation Flight University of China,0,1
+Civil Aviation University of China,0,1
+Cohere (Canada),0,1
+College of Staten Island,0,1
+Colorado State University,0,1
+Computer Network Information Center,0,1
+Concordia University,0,1
+Connaissance & Intelligence Artificielle Distribuées,0,1
+Cornell Tech,0,1
+Corvinus University of Budapest,0,1
+Courant Institute of Mathematical Sciences,0,1
+Cranfield University,0,1
+Daegu Gyeongbuk Institute of Science and Technology,0,1
+Dalhousie University,0,1
+Dalian Polytechnic University,0,1
+Dartmouth College,0,1
+Data61,0,1
+Dataminr (United States),0,1
+DeepSeek (China),0,1
+Delhi Technological University,0,1
+Democritus University of Thrace,0,1
+Denso (United States),0,1
+Denso IT Laboratory Inc. (Japan),0,1
+Deutsches Elektronen-Synchrotron DESY,0,1
+Dhanalakshmi Srinivasan University,0,1
+Digital Research Centre of Sfax,0,1
+Dolby (United States),0,1
+Dongguan University of Technology,0,1
+Drexel University,0,1
+Durham University,0,1
+East Siberia State University of Technology and Management,0,1
+"Eastern Institute of Technology, Ningbo",0,1
+Edith Cowan University,0,1
+Electric Power Research Institute,0,1
+Ericsson (Canada),0,1
+Ernst Strüngmann Institute for Neuroscience,0,1
+Expedia Group (United States),0,1
+Federal Institute of São Paulo,0,1
+Federation University,0,1
+First Affiliated Hospital of Henan University of Science and Technology,0,1
+First Affiliated Hospital of University of South China,0,1
+First Affiliated Hospital of Zhengzhou University,0,1
+First Bethune Hospital of Jilin University,0,1
+Florida Atlantic University,0,1
+Franche-Comté Électronique Mécanique Thermique et Optique - Sciences et Technologies,0,1
+Frankfurt Institute for Advanced Studies,0,1
+Fu Jen Catholic University,0,1
+Fujian Business University,0,1
+Fujian University of Technology,0,1
+Fujian Women and Children Hospital,0,1
+Fujitsu (China),0,1
+Fujitsu (United States),0,1
+"Future House, Inc.",0,1
+Fuyang Normal University,0,1
+Fırat University,0,1
+GIFT University,0,1
+Genome Institute of Singapore,0,1
+German Jordanian University,0,1
+German Research Centre for Artificial Intelligence,0,1
+Ghulam Ishaq Khan Institute of Engineering Sciences and Technology,0,1
+Graphic Era Hill University,0,1
+Graz University of Technology,0,1
+Great Bay University,0,1
+Guangdong Medical College,0,1
+Guangdong Provincial Hospital of Chinese Medicine,0,1
+Guangxi Police College,0,1
+Guangxi University of Science and Technology,0,1
+Guangzhou Institute of Technology,0,1
+Guangzhou University of Chinese Medicine,0,1
+Guangzhou Xinhua University,0,1
+Guilin Medical University,0,1
+Guiyang Institute of Information Science and Technology,0,1
+HAW Hamburg,0,1
+Hainan Bielefeld University of Applied Sciences,0,1
+Haliç University,0,1
+Hamburg University of Technology,0,1
+Hangzhou Normal University,0,1
+Hangzhou Seventh Peoples Hospital,0,1
+Hanoi University,0,1
+Hanoi University of Industry,0,1
+Hanshan Normal University,0,1
+Hanyang University,0,1
+Harbin Institute of Information Technology,0,1
+Hasan Kalyoncu University,0,1
+Hebei Institute of Communications,0,1
+Hebei University of Technology,0,1
+Hebrew University of Jerusalem,0,1
+Hefei Normal University,0,1
+Henan Institute of Science and Technology,0,1
+Henan Polytechnic University,0,1
+Henan Provincial Department of Transportation,0,1
+Heze University,0,1
+HiLIFE – Elämäntieteiden Instituutti,0,1
+Hindustan Institute of Technology and Science,0,1
+Hiroshima University,0,1
+Hokkaido University Hospital,0,1
+Hong Kong Metropolitan University,0,1
+Hooghly Engineering & Technology College,0,1
+Huaibei Normal University,0,1
+Huawei Technologies (Canada),0,1
+Hubei University,0,1
+Humboldt-Universität zu Berlin,0,1
+Hunan University of Technology and Business,0,1
+Huzhou Normal University,0,1
+IBM Research - Cambridge (United States),0,1
+IFlyTek (China),0,1
+IT University of Copenhagen,0,1
+Idiap Research Institute,0,1
+ImViA - Imagerie et Vision Artificielle,0,1
+Imam Mohammad ibn Saud Islamic University,0,1
+Incheon National University,0,1
+Indian Institute of Technology BHU,0,1
+Indian Institute of Technology Dhanbad,0,1
+Indian Institute of Technology Indore,0,1
+Indian Institute of Technology Jodhpur,0,1
+Indian Institute of Technology Roorkee,0,1
+Indiana University,0,1
+Indiana University Bloomington,0,1
+Indus University,0,1
+Industrial Technology Research Institute,0,1
+Inner Mongolia Electric Power (China),0,1
+Inner Mongolia University of Science and Technology,0,1
+Institut National Polytechnique de Toulouse,0,1
+Institut National de Physique Nucléaire et de Physique des Particules,0,1
+Institut de Microelectrònica de Barcelona,0,1
+Institut de Recherche en Informatique de Toulouse,0,1
+Institut de Robòtica i Informàtica Industrial,0,1
+Institute of Acoustics,0,1
+Institute of Advanced Intelligence and Computing,0,1
+Institute of Atmospheric Physics,0,1
+Institute of Computer Science,0,1
+Institute of Disaster Prevention,0,1
+"Institute of Industrial Science, The University of Tokyo",0,1
+Institute of Microelectronics,0,1
+Institute of Mountain Hazards and Environment,0,1
+Institute of Neuroinformatics,0,1
+"Institute of Optics and Electronics, Chinese Academy of Sciences",0,1
+Institute of Science and Technology Austria,0,1
+Institute of Zoology,0,1
+Instituto de Física Corpuscular,0,1
+Instituto de Neurociencias,0,1
+Integral University,0,1
+Integrated Systems Laboratory,0,1
+Interdisciplinary Transformation University Austria,0,1
+International Institute for Geo-Information Science and Earth Observation,0,1
+"International Institute of Information Technology, Hyderabad",0,1
+"International Islamic University, Islamabad",0,1
+International Research Center of Big Data for Sustainable Development Goals,0,1
+Invertis University,0,1
+Iqra University,0,1
+Iran University of Science and Technology,0,1
+Islamia College University,0,1
+Islamic Azad University Central Tehran Branch,0,1
+"Islamic Azad University, Isfahan",0,1
+"Islamic Azad University, Science and Research Branch",0,1
+"Islamic Azad University, Tehran",0,1
+Islamic University of Najaf,0,1
+Israel Atomic Energy Commission,0,1
+Istanbul Medeniyet University,0,1
+Jadavpur University,0,1
+Jagiellonian University,0,1
+Jan Matejko Academy Of Fine Arts,0,1
+Japan Agency for Marine-Earth Science and Technology,0,1
+Jeonbuk National University,0,1
+Jet Propulsion Laboratory,0,1
+Jiamusi University,0,1
+Jiangmen Central Hospital,0,1
+Jiangsu Ocean University,0,1
+Jiangsu Open University,0,1
+Jiangxi Normal University,0,1
+Jiangxi University of Water Resources and Electric Power,0,1
+Jožef Stefan Institute,0,1
+Jožef Stefan International Postgraduate School,0,1
+Juntendo University,0,1
+Kagoshima University,0,1
+Kaili University,0,1
+Kanazawa University,0,1
+Karolinska Institutet,0,1
+Kaunas University of Technology,0,1
+Kermanshah University of Medical Sciences,0,1
+Khalifa University of Science and Technology,0,1
+Kharkiv National University of Radio Electronics,0,1
+Khatam University,0,1
+Khazar University,0,1
+Khulna University of Engineering and Technology,0,1
+Kiang Wu Hospital,0,1
+Kimyo International University in Tashkent,0,1
+King Abdulaziz University,0,1
+King Faisal University,0,1
+King Mongkut's University of Technology Thonburi,0,1
+Kitami Institute of Technology,0,1
+Kochi University of Technology,0,1
+Kookmin University,0,1
+Korea Electronics Technology Institute,0,1
+Korea Institute of Science and Technology,0,1
+Korea National University of Transportation,0,1
+Korean Association Of Science and Technology Studies,0,1
+Kumamoto University Hospital,0,1
+Kunsan National University,0,1
+Kurchatov Institute,0,1
+Kyoto University,0,1
+Kyungpook National University,0,1
+Kırklareli University,0,1
+Kırıkkale University,0,1
+LG Chem (South Korea),0,1
+Laboratoire Génie Industriel,0,1
+Laboratoire Jean-Alexandre Dieudonné,0,1
+"Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier",0,1
+Laboratoire d'étude de l'apprentissage et du développement,0,1
+Laboratoire de Physique de Clermont Auvergne,0,1
+Laoshan Laboratory,0,1
+Lawrence Livermore National Laboratory,0,1
+Lehigh University,0,1
+Liaoning University,0,1
+Linköping University,0,1
+Linyi University,0,1
+London Centre for Nanotechnology,0,1
+Loyola Marymount University,0,1
+Lublin University of Technology,0,1
+Luliang University,0,1
+Luxembourg Institute of Science and Technology,0,1
+Maastricht University,0,1
+Macau University of Science and Technology,0,1
+Maejo University,0,1
+Marmara University,0,1
+Massachusetts Eye and Ear Infirmary,0,1
+"Maulana Abul Kalam Azad University of Technology, West Bengal",0,1
+Max Planck Institute for Software Systems,0,1
+McMaster University,0,1
+Medical University of South Carolina,0,1
+Meghnad Saha Institute of Technology,0,1
+Mehran University of Engineering and Technology,0,1
+Merchant Marine Academy,0,1
+Mianyang Central Hospital,0,1
+Michigan State University,0,1
+Michigan Technological University,0,1
+Microsoft (India),0,1
+Microsoft Research (United Kingdom),0,1
+Middle East College,0,1
+Mie University,0,1
+Minia University,0,1
+Ministry of Emergency Management of the People's Republic of China,0,1
+Minjiang University,0,1
+Minzu University of China,0,1
+Mistral AI (France),0,1
+Mohamed I University,0,1
+Moonshot AI (China),0,1
+Multimedia University,0,1
+Munich Center for Machine Learning,0,1
+Mustansiriyah University,0,1
+Mykolas Romeris University,0,1
+NASK National Research Institute,0,1
+NAVER Cloud (South Korea),0,1
+NCSOFT (South Korea),0,1
+"NPC Worldwide, LLC",0,1
+Nanchang University,0,1
+Nanjing Institute of Technology,0,1
+Nanjing Vocational College of Information Technology,0,1
+Nantong Institute of Technology,0,1
+Nara Institute of Science and Technology,0,1
+National Center for High-Performance Computing,0,1
+National Engineering School of Tunis,0,1
+"National Heart, Lung, and Blood Institute",0,1
+National Information Processing Institute,0,1
+National Institute for Research and Development of Isotopic and Molecular Technologies,0,1
+National Institute of Genetic Engineering and Biotechnology,0,1
+National Institute of Informatics,0,1
+National Institute of Standards and Technology,0,1
+National Institute of Technology Meghalaya,0,1
+National Institute of Technology Tiruchirappalli,0,1
+National Institutes of Applied Research,0,1
+National Institutes of Health,0,1
+National Key Laboratory of Science and Technology on Reliability and Environmental Engineering,0,1
+National Research Council,0,1
+"National School of Electronics and Telecommunications of Sfax, Tunisia",0,1
+National Space Science Center,0,1
+National Supercomputing Center in Jinan,0,1
+National Taipei University of Business,0,1
+National Taipei University of Technology,0,1
+National University,0,1
+National University of Computer and Emerging Sciences,0,1
+Naval University of Engineering,0,1
+Neapolis University Pafos,0,1
+Netaji Subhas University of Technology,0,1
+New Jersey Institute of Technology,0,1
+New York University Shanghai,0,1
+Ningbo Institute of Industrial Technology,0,1
+Ningbo University of Technology,0,1
+Nitte Meenakshi Institute of Technology,0,1
+Nitte University,0,1
+Noorul Islam University,0,1
+North China University of Technology,0,1
+North China University of Water Resources and Electric Power,0,1
+North Minzu University,0,1
+North Sichuan Medical University,0,1
+North University of China,0,1
+Northeast Electric Power University,0,1
+Northeast Normal University,0,1
+Northern Jiangsu People's Hospital,0,1
+Northwest A&F University,0,1
+Northwest Institute of Plateau Biology,0,1
+Northwest Minzu University,0,1
+Northwest University,0,1
+Nottingham Trent University,0,1
+Ocean University of China,0,1
+Ohio University,0,1
+Okayama University,0,1
+Ollscoil na Gaillimhe – University of Galway,0,1
+Osaka Metropolitan University,0,1
+PLA Academy of Military Science,0,1
+PLA Army Engineering University,0,1
+PLA Army Service Academy,0,1
+PLA Information Engineering University,0,1
+PLA Rocket Force University of Engineering,0,1
+Pan-Atlantic University,0,1
+Panjab University,0,1
+Peking University School and Hospital of Stomatology,0,1
+Penta-Ocean Construction (Japan),0,1
+Pohang University of Science and Technology,0,1
+Polytechnique Montréal,0,1
+Pontificia Universidad Católica del Perú,0,1
+Pontifícia Universidade Católica do Rio Grande do Sul,0,1
+Portland State University,0,1
+Prince Sattam Bin Abdulaziz University,0,1
+Prince Sultan University,0,1
+Puducherry Technological University,0,1
+Pukyong National University,0,1
+Purple Mountain Laboratories,0,1
+Putian University,0,1
+Qassim University,0,1
+Qiqihar University,0,1
+Qualcomm (United States),0,1
+Quan Cheng Laboratory,0,1
+Quanzhou Normal University,0,1
+Queen Mary University of London,0,1
+Qujing Normal University,0,1
+REVA University,0,1
+RIKEN Center for Advanced Intelligence Project,0,1
+RIKEN Center for Computational Science,0,1
+RMIT Europe,0,1
+RMIT University,0,1
+Rakuten (Japan),0,1
+Red Hat (United States),0,1
+"Research Center for Humanities and Social Sciences, Academia Sinica",0,1
+Riphah International University,0,1
+Ritsumeikan University,0,1
+Rochester Institute of Technology,0,1
+Roma Tre University,0,1
+Ryukoku University,0,1
+SRI International,0,1
+SRM Institute of Science and Technology,0,1
+SUNY Korea,0,1
+Samara National Research University,0,1
+Samsung Advanced Institute of Technology (South Korea),0,1
+Samsung Electronics (South Korea),0,1
+San Jose State University,0,1
+Sana'a University,0,1
+SandboxAQ,0,1
+Sandia National Laboratories California,0,1
+Saveetha University,0,1
+School of Visual Arts,0,1
+Second Affiliated Hospital of Jilin University,0,1
+Second Affiliated Hospital of Xi'an Jiaotong University,0,1
+Second Xiangya Hospital of Central South University,0,1
+Seoul National University of Science and Technology,0,1
+Seoul School of Integrated Sciences and Technologies,0,1
+"Services répartis, Architectures, MOdélisation, Validation, Administration des Réseaux",0,1
+Shaanxi Normal University,0,1
+Shaanxi University of Technology,0,1
+Shaanxi Xueqian Normal University,0,1
+Shahid Beheshti University,0,1
+Shandong Agricultural University,0,1
+Shandong Institute for Product Quality Inspection,0,1
+Shandong Institute of Business and Technology,0,1
+Shandong Polytechnic,0,1
+Shanghai Advanced Research Institute,0,1
+Shanghai Institute of Immunology,0,1
+Shanghai International Studies University,0,1
+Shanghai Police College,0,1
+Shanghai University of Electric Power,0,1
+Shanghai University of Finance and Economics,0,1
+Shanghai University of International Business and Economics,0,1
+Shanxi Agricultural University,0,1
+Shaoyang University,0,1
+Sharif University of Technology,0,1
+ShenZhen People’s Hospital,0,1
+Shenyang Institute of Automation,0,1
+Shenyang University of Technology,0,1
+Shenzhen Institute of Information Technology,0,1
+Shenzhen MSU-BIT University,0,1
+Shenzhen Research Institute of Big Data,0,1
+Shenzhen Second People's Hospital,0,1
+Shijiazhuang Tiedao University,0,1
+Shinshu University,0,1
+Shinshu University Hospital,0,1
+Shiraz University of Technology,0,1
+Shiv Nadar University,0,1
+Sichuan Agricultural University,0,1
+Sichuan University of Arts and Science,0,1
+Siirt Üniversitesi,0,1
+Silesian University of Technology,0,1
+Singapore Eye Research Institute,0,1
+Singapore Institute of Technology,0,1
+Singapore Management University,0,1
+Singapore National Eye Center,0,1
+Singapore University of Technology and Design,0,1
+Singidunum University,0,1
+Sinopec (China),0,1
+"Sinopec Beijing Research Institute of Chemical Industry Co., Ltd. (China)",0,1
+Snowflake Inc. (United States),0,1
+Sona College of Technology,0,1
+Sony (Japan),0,1
+Sony (United Kingdom),0,1
+Southern Federal University,0,1
+Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou),0,1
+Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai),0,1
+Southwest Minzu University,0,1
+Southwest Petroleum University,0,1
+Stanford Medicine,0,1
+State Grid Chongqing Electric Power Company (China),0,1
+State Grid Shandong Electric Power Company (China),0,1
+State Grid Shanghai Municipal Electric Power Company (China),0,1
+State Key Laboratory of Acoustics,0,1
+State Key Laboratory of Geohazard Prevention and Geoenvironment Protection,0,1
+State Key Laboratory of Mechanical Transmission,0,1
+State Key Laboratory of Natural Medicine,0,1
+State Key Laboratory of Protein and Plant Gene Research,0,1
+State Key Laboratory of Robotics,0,1
+State Key Laboratory of Virtual Reality Technology and Systems,0,1
+State University of New York,0,1
+Sukhoi State Technical University of Gomel,0,1
+Surajmal University,0,1
+Suzhou Institute of Systems Medicine,0,1
+Suzhou Research Institute,0,1
+Symbiosis International University,0,1
+Syracuse University,0,1
+TU Wien,0,1
+Taighde Éireann - Research Ireland,0,1
+Technical University of Košice,0,1
+Technical University of Sofia,0,1
+Technion – Israel Institute of Technology,0,1
+Technische Universität Darmstadt,0,1
+Technische Universität Ilmenau,0,1
+Technology Innovation Institute,0,1
+Telkom University,0,1
+Texas State University,0,1
+The Alan Turing Institute,0,1
+"The Graduate Center, CUNY",0,1
+The University of Texas Health Science Center at Houston,0,1
+The University of Texas MD Anderson Cancer Center,0,1
+The University of Texas at Arlington,0,1
+Tianjin Normal University,0,1
+Tianjin Research Institute of Water Transport Engineering,0,1
+Tianjin University of Traditional Chinese Medicine,0,1
+Tibet University,0,1
+Tokyo Medical and Dental University,0,1
+Tomsk Polytechnic University,0,1
+Ton Duc Thang University,0,1
+Torrens University Australia,0,1
+Toyota Research Institute,0,1
+Tufts University,0,1
+Tulane University,0,1
+Tunis El Manar University,0,1
+Tunis University,0,1
+Télécom SudParis,0,1
+UK Health Security Agency,0,1
+"Ulster University, Derry-Londonderry Campus",0,1
+UnionPay (China),0,1
+United International University,0,1
+United Nations University,0,1
+"United Nations University Institute for Water, Environment, and Health",0,1
+United States Department of Homeland Security,0,1
+Universidad Carlos III de Madrid,0,1
+Universidad Católica Luis Amigó,0,1
+Universidad Complutense de Madrid,0,1
+Universidad Estatal de Milagro,0,1
+Universidad Nacional de Chimborazo,0,1
+Universidad Nacional de Colombia,0,1
+Universidad Sergio Arboleda,0,1
+Universidad de Cantabria,0,1
+Universidad de Extremadura,0,1
+Universidad de Granada,0,1
+Universidad de Jaén,0,1
+Universidad de Oviedo,0,1
+Universidad de Valladolid,0,1
+Universidade Federal Fluminense,0,1
+Universidade Federal de Uberlândia,0,1
+Universidade Federal do Ceará,0,1
+Universidade de Brasília,0,1
+Universidade de São Paulo,0,1
+Universidade do Porto,0,1
+Universitas Raharja,0,1
+Universitat Pompeu Fabra,0,1
+Universitat de Miguel Hernández d'Elx,0,1
+Universitatea Națională de Știință și Tehnologie Politehnica București,0,1
+Universities and Colleges Admissions Service,0,1
+University B.D.T College of Engineering,0,1
+University Hospital Centre Zagreb,0,1
+University Hospital Dubrava,0,1
+University Hospital of Geneva,0,1
+University Hospitals Bristol and Weston NHS Foundation Trust,0,1
+University Mohamed El Bachir El Ibrahimi of Bordj Bou Arreridj,0,1
+"University at Albany, State University of New York",0,1
+"University at Buffalo, State University of New York",0,1
+University of Aberdeen,0,1
+University of Alabama,0,1
+University of Alabama at Birmingham,0,1
+University of Anbar,0,1
+University of Applied Sciences and Arts of Southern Switzerland,0,1
+University of Arkansas at Fayetteville,0,1
+University of Augsburg,0,1
+University of Bari Aldo Moro,0,1
+University of Bath,0,1
+University of Biskra,0,1
+University of Bremen,0,1
+University of Béjaïa,0,1
+University of California System,0,1
+University of Connecticut,0,1
+University of Derby,0,1
+University of Eastern Finland,0,1
+University of Electro-Communications,0,1
+University of Exeter,0,1
+University of Freiburg,0,1
+University of Glasgow,0,1
+University of Göttingen,0,1
+University of Hawaii System,0,1
+University of Hawaiʻi at Mānoa,0,1
+University of Helsinki,0,1
+University of Information Technology,0,1
+University of Jinan,0,1
+University of Jordan,0,1
+University of Klagenfurt,0,1
+University of Liechtenstein,0,1
+University of Lucerne,0,1
+University of Malta,0,1
+University of Management and Technology,0,1
+University of Missouri,0,1
+University of Modena and Reggio Emilia,0,1
+University of Naples Federico II,0,1
+University of Peradeniya,0,1
+University of Petroleum and Energy Studies,0,1
+University of Portsmouth,0,1
+University of Salerno,0,1
+University of Sannio,0,1
+University of Sarajevo,0,1
+University of Science and Technology Liaoning,0,1
+University of Seoul,0,1
+University of Sfax,0,1
+University of South Dakota,0,1
+University of Strathclyde,0,1
+University of Technology and Applied Sciences - Shinas,0,1
+University of Tehran,0,1
+University of Tennessee Health Science Center,0,1
+University of Tübingen,0,1
+University of Vermont,0,1
+University of Warwick,0,1
+University of Wollongong,0,1
+University of Zadar,0,1
+University of the Basque Country,0,1
+Université Bourgogne Europe,0,1
+Université Bourgogne Franche-Comté,0,1
+Université Clermont Auvergne,0,1
+Université Côte d'Azur,0,1
+Université Grenoble Alpes,0,1
+Université Ibn-Tofail,0,1
+Université Sorbonne Paris Nord,0,1
+Université Sultan Moulay Slimane,0,1
+Université de Montpellier,0,1
+Université de Rennes,0,1
+Université de Sherbrooke,0,1
+Université de technologie de belfort-montbéliard,0,1
+Université du Québec à Rimouski,0,1
+Uppsala University,0,1
+Utrecht University,0,1
+Uttara University,0,1
+V. N. Karazin Kharkiv National University,0,1
+Vardhaman College of Engineering,0,1
+Vietnam National University Ho Chi Minh City,0,1
+Vinayaka Missions University,0,1
+Visvesvaraya Technological University,0,1
+Wageningen University & Research,0,1
+Waikato Institute of Technology,0,1
+Washington University in St. Louis,0,1
+Watershed,0,1
+Weizmann Institute of Science,0,1
+Wenzhou University of Technology,0,1
+Western University,0,1
+Wuhan Business University,0,1
+Wuhan Institute of Technology,0,1
+Wuxi Taihu University,0,1
+Wuyi University,0,1
+Wyss Institute for Biologically Inspired Engineering,0,1
+Xi'an Aeronautical University,0,1
+Xi'an University of Science and Technology,0,1
+Xiamen Institute of Technology,0,1
+Xiangtan University,0,1
+Xiangya Hospital Central South University,0,1
+Xiaohongshu (Little Red Book) (China),0,1
+Xinjiang Agricultural University,0,1
+Xinjiang Technical Institute of Physics & Chemistry,0,1
+Xinjiang University of Finance and Economics,0,1
+Xuzhou Central Hospital,0,1
+Yancheng Third People's Hospital,0,1
+Youngsan University,0,1
+Yunnan University,0,1
+Yunnan Vocational College of Mechanical and Electrical Technology,0,1
+Zagazig University,0,1
+Zhangzhou Health Vocational College,0,1
+Zhaoqing University,0,1
+Zhejiang A & F University,0,1
+Zhejiang Industry & Trade Vocational College,0,1
+Zhengzhou University of Light Industry,0,1
+Zhipu AI (China),0,1
+Zhoukou Normal University,0,1
+Zigong First People's Hospital,0,1
+École Nationale Supérieure des Mines de Paris,0,1
+École Normale Supérieure de Lyon,0,1
+Örebro University,0,1

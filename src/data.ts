@@ -1,6 +1,11 @@
 import papersJson from './data/papers.json'
 import categoriesJson from './data/categories.json'
 
+export interface Organization {
+  name: string
+  country: string | null
+}
+
 export interface Paper {
   id: string
   title: string
@@ -15,6 +20,8 @@ export interface Paper {
   doi: string | null
   abstract: string
   rwkvVersions: string[]
+  organizations: Organization[]
+  citedBy: number
 }
 
 export interface Category {

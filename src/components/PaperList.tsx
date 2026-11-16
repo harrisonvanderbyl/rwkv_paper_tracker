@@ -52,9 +52,21 @@ export default function PaperList({ papers, onSelect }: Props) {
                     {formatAuthors(p.authors)}
                     {p.venue && <> · <em>{p.venue}</em></>}
                   </span>
+                  {p.organizations.length > 0 && (
+                    <span className="paper-meta">
+                      {p.organizations
+                        .slice(0, 3)
+                        .map((o) => o.name)
+                        .join(' · ')}
+                      {p.organizations.length > 3 && ` +${p.organizations.length - 3}`}
+                    </span>
+                  )}
                 </span>
-                <span className="badge" style={{ background: `${cat.color}22`, color: cat.color, borderColor: cat.color }}>
-                  {cat.name}
+                <span className="paper-side">
+                  <span className="badge" style={{ background: `${cat.color}22`, color: cat.color, borderColor: cat.color }}>
+                    {cat.name}
+                  </span>
+                  {p.citedBy > 0 && <span className="muted small">cited by {p.citedBy}</span>}
                 </span>
               </button>
             </li>

@@ -1,0 +1,139 @@
+{
+  "_comment": "Hand-checked organizations (from the papers' author blocks) used when OpenAlex has none or misses non-institution orgs. 'replace' overwrites OpenAlex; 'add' merges.",
+  "arxiv-2305.13048": { "add": [
+    { "name": "EleutherAI", "country": "US" },
+    { "name": "Generative AI Commons", "country": null },
+    { "name": "Charm Therapeutics", "country": "GB" },
+    { "name": "University of California, Santa Barbara", "country": "US" }
+  ] },
+  "arxiv-2404.05892": { "replace": [
+    { "name": "RWKV Project (Linux Foundation AI & Data)", "country": "US" },
+    { "name": "EleutherAI", "country": "US" },
+    { "name": "Recursal AI", "country": null },
+    { "name": "The Ohio State University", "country": "US" },
+    { "name": "Zyphra (United States)", "country": "US" },
+    { "name": "University of California, Santa Barbara", "country": "US" },
+    { "name": "SynthLabs", "country": null },
+    { "name": "Charm Therapeutics", "country": "GB" },
+    { "name": "Dalle Molle Institute for Artificial Intelligence Research", "country": "CH" },
+    { "name": "Wrocław University of Science and Technology", "country": "PL" },
+    { "name": "Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen)", "country": "CN" },
+    { "name": "New York University", "country": "US" },
+    { "name": "Harvard University", "country": "US" },
+    { "name": "Ronsor Labs", "country": null },
+    { "name": "Pennsylvania State University", "country": "US" },
+    { "name": "Contextual AI", "country": "US" },
+    { "name": "Nextremer", "country": "JP" },
+    { "name": "University of Chinese Academy of Sciences", "country": "CN" },
+    { "name": "Tsinghua University", "country": "CN" },
+    { "name": "University of Edinburgh", "country": "GB" },
+    { "name": "University of British Columbia", "country": "CA" },
+    { "name": "University of California, Santa Cruz", "country": "US" }
+  ] },
+  "arxiv-2407.12077": { "replace": [
+    { "name": "EleutherAI", "country": "US" },
+    { "name": "Recursal AI", "country": null },
+    { "name": "Dalle Molle Institute for Artificial Intelligence Research", "country": "CH" },
+    { "name": "Tano Labs", "country": null }
+  ] },
+  "arxiv-2505.03005": { "replace": [
+    { "name": "Recursal AI", "country": null },
+    { "name": "EleutherAI", "country": "US" },
+    { "name": "Dalle Molle Institute for Artificial Intelligence Research", "country": "CH" },
+    { "name": "George Mason University", "country": "US" }
+  ] },
+  "arxiv-2503.14456": { "replace": [
+    { "name": "RWKV Project (Linux Foundation AI & Data)", "country": "US" },
+    { "name": "EleutherAI", "country": "US" },
+    { "name": "Recursal AI", "country": null },
+    { "name": "Tsinghua University", "country": "CN" },
+    { "name": "Dalle Molle Institute for Artificial Intelligence Research", "country": "CH" },
+    { "name": "University of Rochester", "country": "US" },
+    { "name": "Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen)", "country": "CN" },
+    { "name": "Pennsylvania State University", "country": "US" },
+    { "name": "Zhejiang University", "country": "CN" },
+    { "name": "George Mason University", "country": "US" },
+    { "name": "Beijing Normal University", "country": "CN" },
+    { "name": "New York University", "country": "US" },
+    { "name": "Denigma", "country": null },
+    { "name": "Tano Labs", "country": null }
+  ] },
+  "arxiv-2610.21998": { "replace": [{ "name": "Shanghai Jiao Tong University", "country": "CN" }] },
+  "arxiv-2412.16642": { "replace": [{ "name": "Shanghai Jiao Tong University", "country": "CN" }] },
+  "arxiv-2608.03559": { "replace": [{ "name": "Tianjin University of Technology", "country": "CN" }] },
+  "arxiv-2607.21467": { "replace": [{ "name": "Harbin Institute of Technology", "country": "CN" }] },
+  "arxiv-2511.06717": { "replace": [{ "name": "Harbin Institute of Technology", "country": "CN" }] },
+  "arxiv-2505.02705": { "replace": [{ "name": "Harbin Institute of Technology", "country": "CN" }] },
+  "arxiv-2607.00902": { "replace": [
+    { "name": "Tsinghua University", "country": "CN" },
+    { "name": "Soochow University", "country": "CN" }
+  ] },
+  "arxiv-2606.25509": { "replace": [
+    { "name": "Tsinghua University", "country": "CN" },
+    { "name": "University of Science and Technology of China", "country": "CN" },
+    { "name": "Beihang University", "country": "CN" },
+    { "name": "Lenovo (China)", "country": "CN" }
+  ] },
+  "arxiv-2606.10395": { "replace": [{ "name": "Nanjing University of Aeronautics and Astronautics", "country": "CN" }] },
+  "arxiv-2605.25969": { "replace": [
+    { "name": "William & Mary", "country": "US" },
+    { "name": "Hong Kong University of Science and Technology", "country": "HK" },
+    { "name": "Cornell University", "country": "US" }
+  ] },
+  "arxiv-2510.21479": { "replace": [{ "name": "University of Manchester", "country": "GB" }] },
+  "arxiv-2508.20835": { "replace": [
+    { "name": "Shanghai Jiao Tong University", "country": "CN" },
+    { "name": "The University of Tokyo", "country": "JP" },
+    { "name": "Nanjing University", "country": "CN" },
+    { "name": "Nanyang Technological University", "country": "SG" },
+    { "name": "The University of Western Australia", "country": "AU" },
+    { "name": "National University of Singapore", "country": "SG" }
+  ] },
+  "arxiv-2507.19736": { "replace": [{ "name": "University of California, Los Angeles", "country": "US" }] },
+  "arxiv-2507.18594": { "replace": [
+    { "name": "Shenyang Ligong University", "country": "CN" },
+    { "name": "The University of Sydney", "country": "AU" },
+    { "name": "University of International Business and Economics", "country": "CN" },
+    { "name": "Nanjing University of Aeronautics and Astronautics", "country": "CN" },
+    { "name": "Tongji University", "country": "CN" }
+  ] },
+  "arxiv-2507.11415": { "replace": [{ "name": "University of Science and Technology of China", "country": "CN" }] },
+  "arxiv-2506.13001": { "replace": [{ "name": "Simon Fraser University", "country": "CA" }] },
+  "arxiv-2506.06633": { "replace": [{ "name": "Neuro Industry, Inc.", "country": "US" }] },
+  "arxiv-2505.14505": { "replace": [
+    { "name": "RWKVOS", "country": null },
+    { "name": "Zhejiang University", "country": "CN" },
+    { "name": "Hong Kong University of Science and Technology", "country": "HK" }
+  ] },
+  "arxiv-2502.20852": { "replace": [
+    { "name": "Qinghai University", "country": "CN" },
+    { "name": "Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen)", "country": "CN" }
+  ] },
+  "arxiv-2502.15485": { "replace": [{ "name": "Shenzhen College of International Education", "country": "CN" }] },
+  "arxiv-2502.14620": { "replace": [{ "name": "Shenzhen College of International Education", "country": "CN" }] },
+  "arxiv-2412.10856": { "replace": [{ "name": "University of Virginia", "country": "US" }] },
+  "arxiv-2407.16306": { "replace": [{ "name": "Southern University of Science and Technology", "country": "CN" }] },
+  "arxiv-2406.06973": { "replace": [
+    { "name": "The University of Sydney", "country": "AU" },
+    { "name": "DeepGlint", "country": "CN" },
+    { "name": "Imperial College London", "country": "GB" }
+  ] },
+  "arxiv-2405.15214": { "replace": [
+    { "name": "Tencent (China)", "country": "CN" },
+    { "name": "Zhejiang University", "country": "CN" },
+    { "name": "Nanyang Technological University", "country": "SG" }
+  ] },
+  "arxiv-2404.04478": { "replace": [{ "name": "Kunlun Inc.", "country": "CN" }] },
+  "arxiv-2401.09093": { "replace": [{ "name": "Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen)", "country": "CN" }] },
+  "arxiv-2501.08458": { "replace": [
+    { "name": "Zhejiang University", "country": "CN" },
+    { "name": "Tencent (China)", "country": "CN" }
+  ] },
+  "doi-10-1109-ACCESS-2026-3713673": { "replace": [{ "name": "Suzhou Polytechnic University", "country": "CN" }] },
+  "doi-10-1145-3746027-3755521": { "replace": [
+    { "name": "The University of Hong Kong", "country": "HK" },
+    { "name": "Hefei Institutes of Physical Science", "country": "CN" },
+    { "name": "University of Science and Technology of China", "country": "CN" },
+    { "name": "Xiamen University", "country": "CN" }
+  ] }
+}

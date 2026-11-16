@@ -1,5 +1,6 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { categoryById, type Paper } from '../data'
+import { useCitations } from '../citations'
 import { formatDate } from './PaperList'
 
 interface Props {
@@ -9,6 +10,9 @@ interface Props {
 
 export default function PaperDetail({ paper, onClose }: Props) {
   const cat = categoryById.get(paper.category)!
+  const citations = useCitations()
+  const [showAll, setShowAll] = useState(false)
+  const citing = citations?.filter((c) => c.cites.includes(paper.id)) ?? []
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => e.key === 'Escape' && onClose()
@@ -75,6 +79,43 @@ export default function PaperDetail({ paper, onClose }: Props) {
 
         <h3>Abstract</h3>
         <p className="modal-abstract">{paper.abstract || 'No abstract available — see the paper page.'}</p>
+
+        <h3>Organizations</h3>
+        {paper.organizations.length > 0 ? (
+          <ul className="modal-orgs">
+            {paper.organizations.map((o) => (
+              <li key={o.name}>
+                {o.name}
+                {o.country && <span className="muted"> ({o.country})</span>}
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p className="muted small">No affiliation data available.</p>
+        )}
+
+        <h3>
+          Cited by <span className="muted">({citations ? citing.length : '…'})</span>
+        </h3>
+        {citations && citing.length === 0 && <p className="muted small">No citing papers found in OpenAlex.</p>}
+        <ul className="citing-list compact">
+          {citing.slice(0, showAll ? undefined : 15).map((c) => (
+            <li key={c.id}>
+              <a href={c.url} target="_blank" rel="noopener noreferrer" className="citing-title">
+                {c.title}
+              </a>
+              <div className="paper-meta">
+                {c.date.slice(0, 7)}
+                {c.organizations.length > 0 && <> · {c.organizations.map((o) => o.name).join(' · ')}</>}
+              </div>
+            </li>
+          ))}
+        </ul>
+        {citing.length > 15 && (
+          <button className="link-button small" onClick={() => setShowAll(!showAll)}>
+            {showAll ? 'Show fewer' : `Show all ${citing.length}`}
+          </button>
+        )}
       </article>
     </div>
   )
